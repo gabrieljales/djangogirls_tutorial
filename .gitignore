@@ -1,5 +1,6 @@
-# bytecode python
+*.pyc
+*~
 __pycache__
-
-# database
 db.sqlite3
+/static
+.DS_Store
