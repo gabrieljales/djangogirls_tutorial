@@ -4,7 +4,6 @@
 
 # [Tutorial Django Girls - Blog](https://tutorial.djangogirls.org/pt/)
 ## Programação Avançada UERN - 2020
-## Aluno: Gabriel Jales
 
 ### Passo a passo
 
