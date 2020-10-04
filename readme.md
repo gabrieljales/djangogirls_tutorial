@@ -8,21 +8,21 @@
 
 ### Passo a passo
 
-#### Criar um ambiente virtual:
+#### 1. Criar um ambiente virtual:
 `$ python3 -m venv myvenv`
 
-#### Ativar o ambiente:
+#### 2. Ativar o ambiente:
 `$ source myvenv/bin/activate`
 
-#### Instalar as dependências do projeto:
+#### 3. Instalar as dependências do projeto:
 `(myvenv)$ pip install -r requirements.txt`.
 
-#### Configurando o banco de dados do projeto:
+#### 4. Configurando o banco de dados do projeto:
 `(myvenv)$ python manage.py migrate`
 > Sqlite3 é o padrão do Django
 
-#### Rodar o projeto:
+#### 5. Rodar o projeto:
 `(myvenv)$ python manage.py runserver`
 
-#### Acesse o endereço:
+#### 6. Acesse o endereço:
 `http://127.0.0.1:8000/`
