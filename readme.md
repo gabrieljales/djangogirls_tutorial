@@ -18,7 +18,7 @@
 
 #### 4. Configurando o banco de dados do projeto:
 `(myvenv)$ python manage.py migrate`
-> Sqlite3 é o padrão do Django
+> Sqlite3 é o padrão do Django!
 
 #### 5. Rodar o projeto:
 `(myvenv)$ python manage.py runserver`
